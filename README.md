@@ -18,8 +18,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+###
+
 <img src="https://raw.githubusercontent.com/bibekkd/bibekkd/output/snake.svg" alt="Snake animation" />
 
+###
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bibekkd&limit=5&theme=dark&combine_all_yearly_contributions=true)
