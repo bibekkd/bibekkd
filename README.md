@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building AI-powered applications that solve real-world problems.  <br>👯 I’m looking to collaborate on open-source projects related to AI, web3, and full-stack development.  <br>🤝 I’m looking for help with scaling AI agents and integrating them into real-time apps.  <br>🌱 I’m currently learning advanced LLM techniques, RAG pipelines, and decentralized app development.  <br>💬 Ask me about AI agents, web/app development, or startup ideas in the tech space.  <br>⚡ Fun fact: I love turning complex tech ideas into simple, usable products that people enjoy.<br>
+🔭 I’m currently working on building AI-powered applications that solve real-world problems.  <br>👯 I’m looking to collaborate on open-source projects related to *AI*, *web3*, and *full-stack development*.  <br>🤝 I’m looking for help with scaling AI agents and integrating them into real-time apps.  <br>🌱 I’m currently learning advanced LLM techniques, RAG pipelines, and decentralized app development.  <br>💬 Ask me about AI agents, web/app development, or startup ideas in the tech space.  <br>⚡ Fun fact: I love turning complex tech ideas into simple, usable products that people enjoy.<br>
 
 
 ## 🌐 Socials:
